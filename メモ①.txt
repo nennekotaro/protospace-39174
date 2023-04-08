@@ -1,0 +1,3 @@
+rails _6.0.0_ new protospace-39174 -d mysql
+
+cd protospace-39174
